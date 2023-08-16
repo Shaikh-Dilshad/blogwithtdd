@@ -10,7 +10,7 @@ use Illuminate\Http\UploadedFile;
 use Illuminate\Foundation\Testing\DatabaseTransactions;
 use App\Models\Blog;
 use Illuminate\Support\Facades\Session;
-use Illuminate\Database\Eloquent\Factories\Factory; // Import the Factory class
+use Illuminate\Database\Eloquent\Factories\Factory; 
 
 
 class BlogTest extends TestCase
